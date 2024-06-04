@@ -1,0 +1,24 @@
+*{
+    padding: 0 10px 45px 10px;
+    margin: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #c206af;
+    position: fixed;
+    width: 100%;
+    /*mso-border-bottom-width-alt:   ;*/
+    padding: 20px ;
+    border-radius: 8px;
+    margin-right: 80%;
+    margin-bottom: 80%;
+}
+.navbar>h4{
+    padding-inline:13px;
+    padding-right: 8%;
+}
+.navbar:hover{
+    background-color: #B0745A;
+    color: white;
+}

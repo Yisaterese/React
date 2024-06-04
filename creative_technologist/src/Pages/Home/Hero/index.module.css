@@ -1,0 +1,38 @@
+.majorDiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+
+}
+
+.myPic{
+    max-width: 70%;
+    border-radius: 70%;
+    padding: 50px;
+
+}
+
+.button{
+    color: #fff;
+    background: #c206af;
+    border: none;
+    border-radius: 2px;
+    margin-top:4%;
+    padding: 2%;
+
+}
+.button:hover{
+    background: #D4D2D4;
+    color: black;
+}
+.textDiv1{
+    width:700px;
+    /*margin-top: 10%;*/
+    margin-top: 5%;
+    font-weight: bold
+}
+
+.picStyle{
+    width:30%;
+    margin-top: 5%;
+}

@@ -1,0 +1,11 @@
+.btn {
+    width: 100%;
+    color: white;
+    font-size: 3rem;
+    padding: 0.6rem;
+    border: none;
+    background: rebeccapurple;
+    border-radius: 10px;
+    margin-top: 80px;
+    cursor: pointer;
+}

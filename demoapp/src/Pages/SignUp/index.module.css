@@ -1,0 +1,42 @@
+.input{
+    display: block;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    padding: 0.8rem;
+    border-width: 2px;
+    background: white;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    border-inline-color: black;
+
+}
+
+.header{
+    font-size: 64px;
+
+}
+
+.message{
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    padding-inline : 30%;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: white;
+    padding-block: 3%;
+    width: 100%;
+    margin-block: 5%;
+    background: #55229e ;
+}
+
+.inputTag{
+    width: 100%;
+}

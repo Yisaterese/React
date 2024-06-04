@@ -1,0 +1,65 @@
+
+.layoutContainer {
+    /*width: 100%;*/
+    max-width:1200px;
+    margin:  auto;
+    padding: 0 20px 0 20px;
+    box-sizing: border-box;
+}
+
+/*.mobileLayout {*/
+/*padding-top: 0;*/
+/*}*/
+/*.mobileLayout.navbar{*/
+/*    background-color: #333;*/
+/*    padding: 10px;*/
+/*}*/
+/*.mobileLayout.navbar ul{*/
+/*    flex-direction: column;*/
+/*    align-items: flex-start;*/
+/*}*/
+/*.mobileLayout.navbar li{*/
+/*    margin-bottom: 10px ;*/
+/*}*/
+/*.mobileLayout .footer {*/
+/*    background-color: #333;*/
+/*    padding: 20px;*/
+/*    color: #fff;*/
+/*    text-align: center;*/
+/*}*/
+
+
+
+/*.desktopLayout .navbar {*/
+/*    background-color: #444;*/
+/*    padding: 20px 40px;*/
+/*}*/
+/*.desktopLayout.navbar li{*/
+/*    margin: 0 15px;*/
+/*    list-style: none;*/
+/*}*/
+
+
+/*.desktopLayout .footer {*/
+/*    background-color: #444;*/
+/*    padding: 40px;*/
+/*    color: #fff;*/
+/*    text-align: center;*/
+/*}*/
+
+/*.desktopLayout .content {*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*    justify-content: space-between;*/
+/*}*/
+
+/*.desktopLayout .sidebar {*/
+/*    width: 25%;*/
+/*    padding: 20px;*/
+/*    background-color: #f4f4f4;*/
+/*}*/
+
+/*.desktopLayout .main {*/
+/*    width: 70%;*/
+/*    padding: 20px;*/
+/*}*/

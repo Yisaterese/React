@@ -1,0 +1,26 @@
+.container{
+    display: grid;
+    grid-template-columns:1fr 1fr;
+
+}
+
+
+.page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.headerName{
+    text-align: center;
+    font-size: xxx-large;
+
+}
+.message{
+    text-align: center;
+    font-size: xxx-large;
+    margin-bottom: 115px;
+}
+

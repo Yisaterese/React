@@ -1,0 +1,8 @@
+.textContainer1{
+    background-color: #6ed0ee;
+}
+.textContainer2{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px 0 50px;
+}

@@ -1,0 +1,25 @@
+.container{
+    display: grid;
+    grid-template-columns:1fr 1fr;
+
+}
+
+.page{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.reminder{
+    justify-content: space-between;
+    display: flex;
+    width: 64%;
+}
+.buttonText{
+    display: flex;
+    justify-content: space-between;
+    width: 64%;
+}

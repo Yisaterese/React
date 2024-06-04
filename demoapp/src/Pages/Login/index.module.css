@@ -1,0 +1,43 @@
+.collectInput {
+    display: block;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    padding: 0.8rem;
+    border-width: 2px;
+    background: white;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.header{
+    font-size: 64px;
+    margin-bottom: 30px ;
+
+}
+
+.message{
+    font-size: 32px;
+    margin-bottom: 50px;
+}
+.btn{
+    padding-inline : 30%;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: white;
+    padding-block: 3%;
+    width: 100%;
+    margin-block: 5%;
+    background: #55229e ;
+}
+.buttonTag{
+    display: flex;
+    justify-content: center;
+}
+
+.pTag{
+    display: flex;
+    justify-content: space-between;
+}
+
